@@ -1,0 +1,23 @@
+{
+  "name": "k8s-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ./index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.0",
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "@types/js-yaml": "^4.0.5",
+    "@types/yargs": "^17.0.13",
+    "js-yaml": "^4.1.0",
+    "typescript": "^4.8.4",
+    "yargs": "^17.6.0"
+  }
+}
